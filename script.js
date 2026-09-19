@@ -12,7 +12,7 @@ const services = [
   {
     title: "Wrought Iron Gates",
     description: "Custom designed and fabricated entrance gates, sliding gates and pedestrian gates, finished and installed on site.",
-    image: "images/services/gates.jpg"
+    image: "images/services/gates.jpeg"
   },
   {
     title: "Staircases & Rails",
@@ -22,7 +22,7 @@ const services = [
   {
     title: "Carports",
     description: "Steel carport structures engineered for span, drainage and a clean finish that suits the building.",
-    image: "images/services/carports.jpg"
+    image: "images/services/carports.jpeg"
   },
   {
     title: "Tank Stands",
@@ -30,19 +30,9 @@ const services = [
     image: "images/services/tank-stands.jpg"
   },
   {
-    title: "Steel Structures",
-    description: "Fabricated steel frameworks, supports and structural works for commercial and industrial sites.",
-    image: "images/services/steel-structures.jpg"
-  },
-  {
     title: "Glass Balustrades",
     description: "Frameless and framed glass balustrades combining steel fixings with clean, modern glazing.",
-    image: "images/services/glass.jpg"
-  },
-  {
-    title: "Custom Metal Fabrication",
-    description: "One-off metalwork designed around your drawings, measurements and finish requirements.",
-    image: "images/services/custom.jpg"
+    image: "images/services/glass.jpeg"
   }
 ];
 
