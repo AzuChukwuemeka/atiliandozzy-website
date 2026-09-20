@@ -21,17 +21,17 @@ const services = [
   },
   {
     title: "Carports",
-    description: "Steel carport structures engineered for span, drainage and a clean finish that suits the building.",
+    description: "Stairs & Rails carport structures engineered for span, drainage and a clean finish that suits the building.",
     image: "images/services/carports.jpeg"
   },
   {
     title: "Tank Stands",
-    description: "Load-rated steel tank stands fabricated for stability, height requirements and long service life.",
+    description: "Load-rated Stairs & Rails tank stands fabricated for stability, height requirements and long service life.",
     image: "images/services/tank-stands.jpg"
   },
   {
     title: "Glass Balustrades",
-    description: "Frameless and framed glass balustrades combining steel fixings with clean, modern glazing.",
+    description: "Frameless and framed glass balustrades combining Stairs & Rails fixings with clean, modern glazing.",
     image: "images/services/glass.jpeg"
   }
 ];
@@ -45,7 +45,7 @@ const projects = [
   { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-04.jpeg", description: "Quality sliding gate fabrication suitable for residential and commercial properties." },
   { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-05.jpeg", description: "Strong and practical metal gate crafted for everyday use and security." },
   { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-06.jpeg", description: "Professionally fabricated sliding gate with a durable and functional design." },
-  { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-07.jpg", description: "Custom steel gate work combining durability, security, and visual appeal." },
+  { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-07.jpg", description: "Custom Stairs & Rails gate work combining durability, security, and visual appeal." },
   { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-08.jpeg", description: "Robust metal gate fabrication designed for dependable compound access." },
   { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-09.jpeg", description: "Practical sliding gate solution fabricated for strength and long-term use." },
   { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-10.jpeg", description: "Custom-fabricated gate providing a secure and durable entrance solution." },
@@ -54,76 +54,75 @@ const projects = [
   { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-13.jpeg", description: "Professionally crafted metal gate focused on durability and functional access." },
   { title: "Sliding Compound Gate", category: "gates", image: "images/projects/gate-14.jpeg", description: "Custom metalwork providing a strong, practical, and visually appealing entrance." },
 
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-02.jpeg", description: "Custom steel balustrade designed to complement an interior staircase." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-02.jpeg", description: "Custom Stairs & Rails balustrade designed to complement an interior staircase." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-03.jpeg", description: "Durable staircase railing combining safety with a clean metalwork finish." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-04.jpeg", description: "Professionally fabricated steel railing for a modern interior staircase." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-04.jpeg", description: "Professionally fabricated Stairs & Rails railing for a modern interior staircase." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-05.jpeg", description: "Custom metal balustrade providing both practical support and visual appeal." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-06.jpeg", description: "Quality steel staircase railing crafted for durability and everyday use." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-06.jpeg", description: "Quality Stairs & Rails staircase railing crafted for durability and everyday use." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-07.jpeg", description: "Custom-fabricated interior railing designed for a clean and refined finish." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-08.jpeg", description: "Durable steel balustrade adding structure and style to an interior staircase." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-08.jpeg", description: "Durable Stairs & Rails balustrade adding structure and style to an interior staircase." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-09.jpeg", description: "Professionally crafted staircase railing designed for safety and lasting use." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-10.jpeg", description: "Custom steelwork providing a practical and attractive staircase railing solution." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-10.jpeg", description: "Custom Stairs & Railswork providing a practical and attractive staircase railing solution." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-11.jpeg", description: "Quality metal balustrade fabricated to suit a residential interior space." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-12.jpeg", description: "Strong and refined steel railing designed for an interior staircase." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-12.jpeg", description: "Strong and refined Stairs & Rails railing designed for an interior staircase." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-13.jpeg", description: "Custom staircase metalwork combining functionality with a polished appearance." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-14.jpeg", description: "Durable interior balustrade fabricated with attention to practical use and finish." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-15.jpeg", description: "Professional steel railing work designed to enhance an interior staircase." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-15.jpeg", description: "Professional Stairs & Rails railing work designed to enhance an interior staircase." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-16.jpeg", description: "Custom metal staircase railing built for stability, safety, and durability." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-17.jpeg", description: "Quality-fabricated balustrade providing a functional and attractive staircase finish." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-18.jpeg", description: "Steel staircase railing crafted to provide dependable support and lasting quality." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-18.jpeg", description: "Stairs & Rails staircase railing crafted to provide dependable support and lasting quality." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-19.jpeg", description: "Custom interior metalwork designed to complement the surrounding staircase." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-20.jpeg", description: "Durable balustrade fabrication offering a practical and modern staircase solution." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-21.jpeg", description: "Professionally fabricated steel railing suited for residential interior spaces." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-21.jpeg", description: "Professionally fabricated Stairs & Rails railing suited for residential interior spaces." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-22.jpeg", description: "Custom staircase metalwork combining dependable construction with a clean finish." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-23.jpeg", description: "Strong and functional interior balustrade crafted for long-term use." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-24.jpeg", description: "Quality steel railing designed to add safety and character to an interior staircase." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-24.jpeg", description: "Quality Stairs & Rails railing designed to add safety and character to an interior staircase." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-25.jpeg", description: "Custom-fabricated staircase railing with a durable and refined finish." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-26.jpeg", description: "Professional metalwork providing a reliable and attractive interior railing solution." },
-  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-27.jpeg", description: "Durable steel balustrade crafted to complement a residential staircase." },
+  { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-27.jpeg", description: "Durable Stairs & Rails balustrade crafted to complement a residential staircase." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-28.jpeg", description: "Custom interior railing fabricated with a focus on strength and functionality." },
   { title: "Interior Balustrade", category: "stairs", image: "images/projects/stairs-29.jpeg", description: "Professionally finished staircase metalwork designed for everyday use and durability." },
 
-  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-02.jpeg", description: "Custom steel carport structure designed to provide practical vehicle protection." },
+  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-02.jpeg", description: "Custom Stairs & Rails carport structure designed to provide practical vehicle protection." },
   { title: "Residential Carport", category: "carports", image: "images/projects/carpots-03.jpeg", description: "Durable carport fabrication providing covered parking for residential properties." },
-  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-04.jpeg", description: "Steel carport structure built for reliable outdoor vehicle protection." },
-  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-05.jpeg", description: "Custom-fabricated carport combining practical coverage with a sturdy steel structure." },
-  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-06.jpeg", description: "Quality steelwork designed to provide durable and functional covered parking." },
+  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-04.jpeg", description: "Stairs & Rails carport structure built for reliable outdoor vehicle protection." },
+  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-05.jpeg", description: "Custom-fabricated carport combining practical coverage with a sturdy Stairs & Rails structure." },
+  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-06.jpeg", description: "Quality Stairs & Railswork designed to provide durable and functional covered parking." },
   { title: "Residential Carport", category: "carports", image: "images/projects/carpots-07.jpeg", description: "Professionally fabricated carport structure suited to residential spaces." },
-  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-08.jpeg", description: "Strong and practical steel carport designed for dependable vehicle shelter." },
+  { title: "Residential Carport", category: "carports", image: "images/projects/carpots-08.jpeg", description: "Strong and practical Stairs & Rails carport designed for dependable vehicle shelter." },
 
-  { title: "Steel Tank Stand", category: "tanks", image: "images/projects/tank-stand-01.jpg", description: "Custom-fabricated steel support structure designed for elevated water storage." },
-  { title: "Steel Tank Stand", category: "tanks", image: "images/projects/tank-stand-02.jpg", description: "Durable steel tank support built for stability and reliable water storage." },
-  { title: "Steel Tank Stand", category: "tanks", image: "images/projects/tank-stand-03.jpg", description: "Professionally fabricated elevated tank structure for residential or commercial use." },
-  { title: "Steel Tank Stand", category: "tanks", image: "images/projects/tank-stand-04.jpg", description: "Strong steel framework providing dependable support for elevated water tanks." },
-  { title: "Steel Tank Stand", category: "tanks", image: "images/projects/tank-stand-05.jpg", description: "Custom steel tank stand designed for stability, strength, and long-term use." },
-  { title: "Steel Tank Stand", category: "tanks", image: "images/projects/tank-stand-06.jpg", description: "Quality-fabricated support structure for elevated water storage systems." },
-  { title: "Steel Tank Stand", category: "tanks", image: "images/projects/tank-stand-07.jpg", description: "Durable elevated steel framework fabricated for secure tank support." },
-  { title: "Steel Tank Stand", category: "tanks", image: "images/projects/tank-stand-08.jpg", description: "Professional steel fabrication providing a stable foundation for water storage." },
+  { title: "Tank Stand", category: "tanks", image: "images/projects/tank-stand-01.jpg", description: "Custom-fabricated Stairs & Rails support structure designed for elevated water storage." },
+  { title: "Tank Stand", category: "tanks", image: "images/projects/tank-stand-02.jpg", description: "Durable Stairs & Rails tank support built for stability and reliable water storage." },
+  { title: "Tank Stand", category: "tanks", image: "images/projects/tank-stand-03.jpg", description: "Professionally fabricated elevated tank structure for residential or commercial use." },
+  { title: "Tank Stand", category: "tanks", image: "images/projects/tank-stand-04.jpg", description: "Strong Stairs & Rails framework providing dependable support for elevated water tanks." },
+  { title: "Tank Stand", category: "tanks", image: "images/projects/tank-stand-05.jpg", description: "Custom Stairs & Rails tank stand designed for stability, strength, and long-term use." },
+  { title: "Tank Stand", category: "tanks", image: "images/projects/tank-stand-06.jpg", description: "Quality-fabricated support structure for elevated water storage systems." },
+  { title: "Tank Stand", category: "tanks", image: "images/projects/tank-stand-07.jpg", description: "Durable elevated Stairs & Rails framework fabricated for secure tank support." },
+  { title: "Tank Stand", category: "tanks", image: "images/projects/tank-stand-08.jpg", description: "Professional Stairs & Rails fabrication providing a stable foundation for water storage." },
 
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-01.jpg", description: "Custom structural steelwork fabricated for strength, stability, and practical construction." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-02.jpg", description: "Durable steel framework fabricated to support a range of construction requirements." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-03.jpg", description: "Professionally fabricated structural steelwork for residential and commercial applications." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-04.jpg", description: "Custom steel fabrication combining structural strength with practical design." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-05.jpg", description: "Quality structural metalwork fabricated for dependable construction support." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-06.jpg", description: "Strong and durable steel framework suited to a variety of building projects." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-07.jpg", description: "Custom-fabricated steel structure designed for reliable performance and durability." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-08.jpg", description: "Professional structural steelwork built to meet practical construction needs." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-09.jpg", description: "Durable steel fabrication providing dependable structural support for building projects." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-10.jpg", description: "Custom steel framework fabricated with a focus on strength and lasting performance." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-11.jpg", description: "Quality structural metalwork suitable for a range of construction applications." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-12.jpg", description: "Professionally fabricated steel framework designed for dependable structural use." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-13.jpg", description: "Strong custom steelwork combining practical construction with durable fabrication." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-14.jpg", description: "Durable structural steel fabrication suited to residential and commercial projects." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-15.jpg", description: "Custom-fabricated steel framework designed for stability and long-term performance." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-16.jpg", description: "Professional steel fabrication providing strong and reliable structural support." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-17.jpg", description: "Quality steel framework fabricated for practical and durable construction applications." },
-  { title: "Structural Steel Frame", category: "steel", image: "images/projects/rails-18.jpg", description: "Custom structural metalwork built with strength, durability, and functionality in mind." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-01.jpg", description: "Custom structural Stairs & Railswork fabricated for strength, stability, and practical construction." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-02.jpg", description: "Durable Stairs & Rails framework fabricated to support a range of construction requirements." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-03.jpg", description: "Professionally fabricated structural Stairs & Railswork for residential and commercial applications." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-04.jpg", description: "Custom Stairs & Rails fabrication combining structural strength with practical design." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-05.jpg", description: "Quality structural metalwork fabricated for dependable construction support." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-06.jpg", description: "Strong and durable Stairs & Rails framework suited to a variety of building projects." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-07.jpg", description: "Custom-fabricated Stairs & Rails structure designed for reliable performance and durability." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-08.jpg", description: "Professional structural Stairs & Railswork built to meet practical construction needs." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-09.jpg", description: "Durable Stairs & Rails fabrication providing dependable structural support for building projects." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-10.jpg", description: "Custom Stairs & Rails framework fabricated with a focus on strength and lasting performance." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-11.jpg", description: "Quality structural metalwork suitable for a range of construction applications." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-12.jpg", description: "Professionally fabricated Stairs & Rails framework designed for dependable structural use." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-13.jpg", description: "Strong custom Stairs & Railswork combining practical construction with durable fabrication." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-14.jpg", description: "Durable structural Stairs & Rails fabrication suited to residential and commercial projects." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-15.jpg", description: "Custom-fabricated Stairs & Rails framework designed for stability and long-term performance." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-16.jpg", description: "Professional Stairs & Rails fabrication providing strong and reliable structural support." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-17.jpg", description: "Quality Stairs & Rails framework fabricated for practical and durable construction applications." },
+  { title: "Structural Stairs & Rails Frame", category: "Stairs & Rails", image: "images/projects/rails-18.jpg", description: "Custom structural metalwork built with strength, durability, and functionality in mind." },
 ];
 
 
 /* ---------- 3. CATEGORIES ---------- */
 const CATEGORIES = [
-  { key: "all",      label: "All" },
   { key: "gates",    label: "Gates" },
   { key: "stairs",   label: "Stairs & Rails" },
   { key: "carports", label: "Carports" },
@@ -258,9 +257,15 @@ function renderServices() {
   });
 }
 
-/* ---------- Projects gallery ---------- */
+/* ---------- Projects gallery: horizontal, auto-advancing strip ---------- */
 let visibleProjects = [];
-const SPAN_PATTERN = ["2", "1", "1", "1", "1", "2", "1", "1"];
+let galleryTimer = null;
+let galleryResumeTimer = null;
+
+const GALLERY_AUTOPLAY_MS = 3800;   // wait time between automatic scrolls
+const GALLERY_RESUME_MS   = 5000;   // pause length after the visitor interacts manually
+const prefersReducedMotion = () =>
+  window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
 function categoryLabel(key) {
   const found = CATEGORIES.find(c => c.key === key);
@@ -272,9 +277,10 @@ function renderFilters() {
   if (!bar) return;
 
   const used = new Set(projects.map(p => p.category));
+  const available = CATEGORIES.filter(c => used.has(c.key));
   bar.innerHTML = "";
 
-  CATEGORIES.filter(c => c.key === "all" || used.has(c.key)).forEach((cat, i) => {
+  available.forEach((cat, i) => {
     const btn = document.createElement("button");
     btn.type = "button";
     btn.className = "filter" + (i === 0 ? " is-active" : "");
@@ -291,25 +297,31 @@ function renderFilters() {
     });
     bar.appendChild(btn);
   });
+
+  // Kick off the gallery with whichever category is actually active,
+  // rather than assuming one exists.
+  renderGallery(available.length ? available[0].key : null);
 }
 
-function renderGallery(category = "all") {
+function renderGallery(category) {
   const grid = $("#projectGrid");
   const empty = $("#galleryEmpty");
   if (!grid) return;
 
-  visibleProjects = category === "all"
-    ? projects.slice()
-    : projects.filter(p => p.category === category);
+  stopGalleryAutoplay();
+
+  visibleProjects = category
+    ? projects.filter(p => p.category === category)
+    : [];
 
   grid.innerHTML = "";
+  grid.scrollLeft = 0;
   empty.hidden = visibleProjects.length > 0;
 
   visibleProjects.forEach((project, i) => {
     const tile = document.createElement("button");
     tile.type = "button";
     tile.className = "tile";
-    tile.dataset.span = SPAN_PATTERN[i % SPAN_PATTERN.length];
     tile.dataset.index = String(i);
     tile.setAttribute("aria-label", "Open " + project.title);
 
@@ -334,6 +346,82 @@ function renderGallery(category = "all") {
     tile.addEventListener("click", () => openLightbox(i));
     grid.appendChild(tile);
     watchImage(img, project.title);
+  });
+
+  startGalleryAutoplay();
+}
+
+/* Scrolls the strip by exactly one tile + gap, looping back to the start
+   once it reaches the end. */
+function stepGallery(dir = 1) {
+  const grid = $("#projectGrid");
+  if (!grid) return;
+  const tile = grid.querySelector(".tile");
+  if (!tile) return;
+
+  const gap = parseFloat(getComputedStyle(grid).columnGap || getComputedStyle(grid).gap || "0");
+  const step = tile.getBoundingClientRect().width + gap;
+  const maxScroll = grid.scrollWidth - grid.clientWidth;
+
+  if (dir > 0 && grid.scrollLeft >= maxScroll - 4) {
+    grid.scrollTo({ left: 0, behavior: "smooth" });
+  } else if (dir < 0 && grid.scrollLeft <= 4) {
+    grid.scrollTo({ left: maxScroll, behavior: "smooth" });
+  } else {
+    grid.scrollBy({ left: step * dir, behavior: "smooth" });
+  }
+}
+
+function startGalleryAutoplay() {
+  stopGalleryAutoplay();
+  if (prefersReducedMotion()) return;
+  if (visibleProjects.length < 2) return;
+
+  galleryTimer = window.setInterval(() => stepGallery(1), GALLERY_AUTOPLAY_MS);
+}
+
+function stopGalleryAutoplay() {
+  if (galleryTimer) { window.clearInterval(galleryTimer); galleryTimer = null; }
+  if (galleryResumeTimer) { window.clearTimeout(galleryResumeTimer); galleryResumeTimer = null; }
+}
+
+/* A manual interaction pauses autoplay briefly rather than killing it for
+   the rest of the visit — it resumes on its own after a short pause. */
+function pauseGalleryThenResume() {
+  if (galleryTimer) { window.clearInterval(galleryTimer); galleryTimer = null; }
+  if (galleryResumeTimer) window.clearTimeout(galleryResumeTimer);
+  galleryResumeTimer = window.setTimeout(startGalleryAutoplay, GALLERY_RESUME_MS);
+}
+
+function initGalleryControls() {
+  const grid = $("#projectGrid");
+  const wrap = $(".gallery-wrap");
+  const prev = $("#galleryPrev");
+  const next = $("#galleryNext");
+  if (!grid || !wrap) return;
+
+  prev.addEventListener("click", () => { stepGallery(-1); pauseGalleryThenResume(); });
+  next.addEventListener("click", () => { stepGallery(1); pauseGalleryThenResume(); });
+
+  ["pointerenter", "focusin"].forEach(evt =>
+    wrap.addEventListener(evt, () => { if (galleryTimer) { window.clearInterval(galleryTimer); galleryTimer = null; } })
+  );
+  ["pointerleave", "focusout"].forEach(evt =>
+    wrap.addEventListener(evt, () => startGalleryAutoplay())
+  );
+
+  // A manual drag/scroll also earns the visitor a pause before autoplay resumes.
+  let userScrolling = false;
+  grid.addEventListener("scroll", () => {
+    if (userScrolling) return;
+    userScrolling = true;
+    window.requestAnimationFrame(() => { userScrolling = false; });
+    pauseGalleryThenResume();
+  }, { passive: true });
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) stopGalleryAutoplay();
+    else startGalleryAutoplay();
   });
 }
 
@@ -366,6 +454,7 @@ function fillLightbox(index) {
 function openLightbox(index) {
   const box = $("#lightbox");
   lastFocused = document.activeElement;
+  stopGalleryAutoplay();
   fillLightbox(index);
   box.hidden = false;
   document.body.classList.add("is-locked");
@@ -379,6 +468,7 @@ function closeLightbox() {
   document.body.classList.remove("is-locked");
   window.setTimeout(() => { box.hidden = true; }, 250);
   if (lastFocused) lastFocused.focus();
+  startGalleryAutoplay();
 }
 
 function stepLightbox(dir) {
@@ -498,8 +588,8 @@ function initReveal() {
 document.addEventListener("DOMContentLoaded", () => {
   initStaticImages();
   renderServices();
-  renderFilters();
-  renderGallery("all");
+  renderFilters();          // also triggers the first renderGallery() call
+  initGalleryControls();
   initNav();
   initLightbox();
   initQuoteForm();

@@ -146,7 +146,11 @@
 
     <div class="filters" id="projectFilters" role="tablist" aria-label="Filter projects by category"></div>
 
-    <div class="gallery" id="projectGrid"></div>
+    <div class="gallery-wrap">
+      <button type="button" class="gallery-nav gallery-nav--prev" id="galleryPrev" aria-label="Scroll projects left">&#8249;</button>
+      <div class="gallery" id="projectGrid"></div>
+      <button type="button" class="gallery-nav gallery-nav--next" id="galleryNext" aria-label="Scroll projects right">&#8250;</button>
+    </div>
     <p class="gallery__empty" id="galleryEmpty" hidden>No projects in this category yet.</p>
   </div>
 </section>
